@@ -1,0 +1,12 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.btn {
+}
+
+@media (min-width: 300px) {
+  .btn {
+  }
+}
+
